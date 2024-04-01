@@ -1,7 +1,7 @@
 # DIA 1 - PALÍNDROMO
 
 print("Hellouu! ")
-resposta = input("Digite uma palavra e eu te digo se ela é um palindromo ou não: ")
+resposta = input("Digite uma palavra e eu te digo se ela é um palíndromo ou não: ")
 
 def coloca_ao_contrario(palavra): 
     tamanho = len(palavra) - 1
